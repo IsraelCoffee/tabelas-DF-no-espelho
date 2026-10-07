@@ -36,7 +36,7 @@ write_xlsx(
     "Categorias" = categorias,
     "Eventos"    = eventos
   ),
-  path = "dicionario_sinesp.xlsx"
+  path = "dicionario_sinesp.csv"
 )
 
   
